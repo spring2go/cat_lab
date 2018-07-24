@@ -9,10 +9,10 @@
 
 #### 2. 加载案例项目到Eclipse IDE
 
-1. [acme-financial-ui](acme-financial-ui):8081
-2. [acme-financial-back-office-microservice](acme-financial-back-office-microservice):8082
-3. [acme-financial-account-microservice](acme-financial-account-microservice):8083
-4. [acme-financial-customer-microservice](acme-financial-customer-microservice):8084
+* [acme-financial-ui](acme-financial-ui):8081
+* [acme-financial-back-office-microservice](acme-financial-back-office-microservice):8082
+* [acme-financial-account-microservice](acme-financial-account-microservice):8083
+* [acme-financial-customer-microservice](acme-financial-customer-microservice):8084
 
 依次启动上述项目
 
