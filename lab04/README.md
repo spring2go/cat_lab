@@ -8,7 +8,7 @@
 参考[QuickStart](https://zipkin.io/pages/quickstart.html)下载`zipkin.jar`
 
 ```
-java -jar zipkin
+java -jar zipkin.jar
 ```
 默认zipkin服务器启动端点`9411`
 
