@@ -5,6 +5,10 @@
 
 本实验文档仅供学习参考！大众点评[CAT](https://github.com/dianping/cat)近期(2018下半年)更新比较频繁，已经升级到3.0，增加了不少新特性，建议大家后续跟进采用CAT新版本，生产级服务器部署请直接建议参考其[官方文档](https://github.com/dianping/cat)。
 
+CAT 3.0的两个注意点：
+* mysql请用6.x或7.x版本，暂不要用8.x版本，会有兼容性问题。
+* Java应用配置方式和2.0不同，参考[java客户端使用](https://github.com/dianping/cat/tree/master/lib/java)的Initialization部分。
+
 ### 实验步骤
 
 #### 1. 下载CAT源码
