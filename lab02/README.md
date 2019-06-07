@@ -3,9 +3,9 @@
 
 ### 注意(2019.6.7 update)
 
-大众点评[CAT](https://github.com/dianping/cat)已经升级到3.0, Java应用配置方式和2.0不同，
+大众点评[CAT](https://github.com/dianping/cat)已经升级到3.0， Java应用配置方式和2.0不同，
 上面四个SpringBoot项目的配置需要调整，配置放在`src/main/resources/META-INF/app.properties`中，
-里面只需说明应用名称即可, 格式：
+里面只需说明应用名称即可，格式：
 
 `app.name={appkey}`
 
